@@ -5,10 +5,10 @@
   <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/honi31"><img src="width="100px;" alt=""/><br /><sub><b>손호언</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/podol0207"><img src="width="100px;" alt=""/><br /><sub><b>김명관</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Hyeonjuun"><img src="" width="100px;" alt=""/><br /><sub><b>김현준</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/honi31"><img src="" width="100px;" alt=""/><br /><sub><b>손호언</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/GumaLee"><img src="" width="100px;" alt=""/><br /><sub><b>이민우</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
