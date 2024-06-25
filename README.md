@@ -5,10 +5,10 @@
   <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/podol0207"><img src="width="100px;" alt=""/><br /><sub><b>김명관</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/Hyeonjuun"><img src="" width="100px;" alt=""/><br /><sub><b>김현준</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/honi31"><img src="" width="100px;" alt=""/><br /><sub><b>손호언</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/GumaLee"><img src="" width="100px;" alt=""/><br /><sub><b>이민우</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/podol0207"><img src="https://avatars.githubusercontent.com/u/31719698?v=4" width="100px;" alt=""/><br /><sub><b>김명관</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Hyeonjuun"><img src="https://avatars.githubusercontent.com/u/81156795?v=4" width="100px;" alt=""/><br /><sub><b>김현준</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/honi31"><img src="https://avatars.githubusercontent.com/u/87221653?v=4" width="100px;" alt=""/><br /><sub><b>손호언</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/GumaLee"><img src="https://avatars.githubusercontent.com/u/117360367?v=4" width="100px;" alt=""/><br /><sub><b>이민우</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
